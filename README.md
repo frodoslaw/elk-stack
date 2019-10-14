@@ -1,5 +1,7 @@
 # elk-stack in one Docker
 
+[![Build Status](https://travis-ci.org/frodoslaw/elk-stack.svg?branch=master)](https://travis-ci.org/frodoslaw/elk-stack)
+
 ### Usage
 
     docker build -t elk-stack . 
