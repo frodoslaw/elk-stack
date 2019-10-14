@@ -1,4 +1,5 @@
 FROM node:10.15.2-alpine
+MAINTAINER Radoslaw Frackiewicz <frodoslaw@gmail.com>
 
 ARG elk_version=7.2.0
 
